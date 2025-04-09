@@ -1,0 +1,4 @@
+spacy
+networkx
+torch
+transformers
