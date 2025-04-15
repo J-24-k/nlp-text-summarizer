@@ -4,8 +4,8 @@ A hybrid approach to text summarization using both extractive TextRank and abstr
 
 This project combines two powerful techniques in NLP:
 
- **TextRank** : Selects important sentences from the original text.
- **PEGASUS**  : Generates new, concise summaries using deep learning.
+ - **TextRank** : Selects important sentences from the original text.
+ - **PEGASUS**  : Generates new, concise summaries using deep learning.
 
 Here's what the output looks like:
 
